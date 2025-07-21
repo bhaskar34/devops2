@@ -29,6 +29,7 @@ function App() {
         Click on the Vite and React logos to learn more
       </p>
       <p>This project has been deployed using devops</p>
+      <p> devops</p>
     </>
   )
 }
